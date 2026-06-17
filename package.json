@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/lara1709/petrescue/issues"
   },
-  "homepage": "https://github.com/lara1709/petrescue#readme"
+  "homepage": "https://github.com/lara1709/petrescue#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
